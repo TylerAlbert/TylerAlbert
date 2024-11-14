@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a current Senior at The University of Iowa studying Business Analytics & Information Systems as well as finance!
+I am a current Senior at The University of Iowa studying Business Analytics & Information Systems as well as Finance!
 <!--
 **TylerAlbert/TylerAlbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
